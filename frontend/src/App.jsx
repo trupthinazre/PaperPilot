@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from "react";
 import "./App.css";
 
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://paperpilot-lxk0.onrender.com";
 
 const SUGGESTED_QUESTIONS = [
   "What are the main points?",
